@@ -17,7 +17,8 @@ body {
   /* display: flex; */
   /* justify-content: center; */
   /* align-items: center; */
-  /* padding: 5rem; */
+  /* padding-left: 1rem; */
+  /* padding-right: 1rem; */
 }
 
 /* main*/
@@ -114,7 +115,7 @@ header {
 
 .main__section {
   /* width: 100rem; */
-  background-color: green;
+  /* background-color: green; */
   /* width: 100%; */
   width: 100%;
   display: flex;
@@ -216,7 +217,7 @@ progress {
 
 .main__section-navs {
   /* background-color: red; */
-  /* margin: 1rem 1rem; */
+  margin: 1rem 1rem;
   /* max-width: 100%; */
   /* max-width: 90%; */
   display: flex;
