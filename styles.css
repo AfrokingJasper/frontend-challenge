@@ -14,11 +14,7 @@ a {
 body {
   background-color: #d0ebff;
   font-family: "roboto";
-  /* display: flex; */
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* padding-left: 1rem; */
-  /* padding-right: 1rem; */
+ 
 }
 
 /* main*/
@@ -28,8 +24,7 @@ main {
   max-width: 80rem;
   min-width: 80rem;
   margin: 1rem auto;
-  /* width: 100%; */
-  /* width: 80rem; */
+ 
 
   border-radius: 1rem;
 }
@@ -114,9 +109,6 @@ header {
 /* main section */
 
 .main__section {
-  /* width: 100rem; */
-  /* background-color: green; */
-  /* width: 100%; */
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -207,21 +199,13 @@ progress {
 
 .main__section-right {
   padding: 2rem;
-  /* background-color: red; */
   flex: 1;
-  /* max-width: 70%; */
-
-  /* width: 100%; */
 }
 
 .main__section-navs {
-  /* background-color: red; */
   margin: 1rem 1rem;
-  /* max-width: 100%; */
-  /* max-width: 90%; */
   display: flex;
   justify-content: space-between;
-  /* gap: 2rem; */
 }
 
 .nav__links {
@@ -248,7 +232,6 @@ progress {
   display: flex;
   justify-content: space-between;
   margin-top: 2rem;
-  /* gap: 1rem; */
 }
 
 /* main content at the top left corner */
@@ -279,7 +262,6 @@ progress {
   display: flex;
   width: 100%;
   justify-content: space-between;
-  /* background-color: red; */
 }
 
 /* articles content left */
@@ -298,9 +280,6 @@ progress {
   gap: 0.2rem;
   justify-content: space-between;
   background-color: #edf2ff;
-
-  /* width: 65%; */
-  /* padding: 1rem; */
 }
 
 .article__left-1 {
@@ -317,8 +296,6 @@ progress {
 }
 .article__left-1 svg {
   width: 1.2rem;
-  /* font-size: 1.3rem;
-  width: 50 %; */
 }
 
 .sub__left-1 {
@@ -386,7 +363,6 @@ progress {
 .globe__container {
   display: flex;
   justify-content: space-between;
-  /* background-color: green; */
   align-items: center;
 }
 
@@ -433,7 +409,6 @@ progress {
   grid-template-rows: 1fr 1fr;
   gap: 0.5rem;
   padding: 0.5rem;
-  /* background-color: red; */
   border-radius: 0.5rem;
   height: 100%;
 }
@@ -459,7 +434,6 @@ progress {
   display: flex;
   justify-content: space-between;
   margin-top: 2rem;
-  /* gap: 1rem; */
 }
 
 /* main content bottom left section */
@@ -602,18 +576,6 @@ progress {
   font-size: 0.8rem;
   opacity: 0.5;
 }
-
-/* .lessons__content-right img {
-  height: 60%;
-  position: absolute;
-  top: 50%;
-  right: -35%;
-  filter: grayscale(100%);
-  fill: green;
-  stroke: green;
-  opacity: 0.5;
-  transform: rotate(15deg) translateY(-100px);
-} */
 
 /* main content bottom right section */
 
